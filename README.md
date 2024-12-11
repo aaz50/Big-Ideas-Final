@@ -1,3 +1,10 @@
-# Big-Ideas-Final
-Big ideas final project (CMPINF10)
-Using speed hump as a metric to determine the best neigbhorhood in Pittsburgh, PA. 
+# Big Ideas Final
+
+This is a analysis of Pittsburgh neighborhoods in order to determine which neighborhood is the "best". The "best" neighborhood is the one where we are least likely to encounter or be unable to escape from some sort of disaster. The datasets we used are linked below.
+
+## Datasets
+- [Fire Incidents](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh) details reported fire incidents in Pittsburgh that were responded to by the Pittsburgh Bureau of Fire.
+
+## By "The Escape Artists" 
+Canvas Group #16:
+- Aidan Barr Bono (acb198@pitt.edu) who analyzed Fire Incidents.
